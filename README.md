@@ -1,17 +1,13 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Description
 
-# Magic 8 Ball 🎱
+This is a project as a part of the course on udemy [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/flutter-bootcamp-with-dart/)
 
-## Our Goal
+You will get some answers from a magic 8 ball! :8ball:
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+## How to run
 
-## What you will create
+To run this project you need to install [Flutter SDK](https://flutter.dev/)
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
-
-> This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+- clone this project
+- run **flutter pub get**
+- run **flutter run**
